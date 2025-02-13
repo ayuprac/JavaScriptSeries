@@ -61,3 +61,5 @@ choices.forEach((choice) => {
     playGame(userChoice);
   });
 });
+
+// This is the javascript code for the app
